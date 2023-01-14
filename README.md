@@ -1,4 +1,4 @@
-## 👋 Hey! I'm Nick. Welcome to my GitHub profile!
+## 👋 Hey! Welcome to my GitHub profile!
 
 I'm a Computer Science undergrad at the University of Delaware with a 
 concentration in Systems and Networks. Currently looking forward to a summer
