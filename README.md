@@ -18,6 +18,6 @@ line and working with lower-level languages like C and Rust.
 
 | Name | Description |
 |------|-------------|
-| [Nick's Rust Ray Tracer](https://github.com/nsdigirolamo/nicks-ray-tracer) | A ray tracer written in Rust following the [Ray Tracing in One Weekend](https://raytracing.github.io/) book series.|
+| [Nick's Ray Tracer](https://github.com/nsdigirolamo/nicks-ray-tracer) | A ray tracer made following the [Ray Tracing in One Weekend](https://raytracing.github.io/) book series.|
 | [PowerPortals](https://github.com/nsdigirolamo/PowerPortals) | A lightweight Spigot plugin for Minecraft that adds interconnected portals.|
 | [Unit Circle Toy](https://github.com/nsdigirolamo/pygame-unit-circle) | An interactive unit circle visualizer written in python with pygame. |
