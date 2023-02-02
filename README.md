@@ -8,12 +8,6 @@ I'm also occasionally working on personal projects to help fill in my gaps of
 knowledge. Right now, my goals are to get more comfortable working on the command
 line and working with lower-level languages like C and Rust. 
 
-#### Social Media:
-
-- [GitHub](https://github.com/nsdigirolamo)
-- [LinkedIn](https://www.linkedin.com/in/nsdigirolamo/)
-- [Mastodon](https://hachyderm.io/@nsdigirolamo)
-
 #### Projects:
 
 | Name | Description |
