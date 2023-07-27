@@ -5,6 +5,14 @@ concentration in Systems and Networks.
 
 I'm also currently an M&T Bank Tech Intern!
 
+## Social Media:
+- [Email](mailto:nsdigirolamo@gmail.com)
+- [GitHub](https://github.com/nsdigirolamo)
+- [LinkedIn](https://www.linkedin.com/in/nsdigirolamo/)
+- [Mastodon](https://hachyderm.io/@nsdigirolamo)
+- [Reddit](https://reddit.com/user/nsdigirolamo/)
+- [Youtube](https://youtube.com/@nsdigirolamo)
+
 ## Past Projects:
 
 | Name | Description |
