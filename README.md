@@ -4,9 +4,8 @@ I'm a Computer Science undergrad at the University of Delaware with a
 concentration in Systems and Networks.
 
 ## Social Media:
-- [Personal Website](https://www.nsdigirolamo.com)
 - [Email](mailto:nsdigirolamo@gmail.com)
-- [GitHub](https://github.com/nsdigirolamo)
+- [Website](https://www.nsdigirolamo.com)
 - [LinkedIn](https://www.linkedin.com/in/nsdigirolamo/)
 
 ## Past Projects:
