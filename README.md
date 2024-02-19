@@ -1,12 +1,12 @@
 # 👋 Hey! Welcome to my GitHub profile!
 
 I'm a Computer Science undergrad at the University of Delaware with a 
-concentration in Systems and Networks.
+concentration in Systems and Networks. Visit my [website!](https://www.nsdigirolamo.com)
 
-## Contacts:
+## Contact Me:
 - [Email](mailto:nsdigirolamo@gmail.com)
-- [Website](https://www.nsdigirolamo.com)
 - [LinkedIn](https://www.linkedin.com/in/nsdigirolamo/)
+- [Other](https://www.nsdigirolamo.com/contacts/)
 
 ## Repositories:
 
