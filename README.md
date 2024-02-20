@@ -3,7 +3,7 @@
 I'm a Computer Science undergrad at the University of Delaware with a 
 concentration in Systems and Networks. My pronouns are he/him.
 
-## Repositories:
+## Repositories
 
 I have a lot of repositories, here are a few of my favorites:
 
