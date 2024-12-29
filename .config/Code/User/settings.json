@@ -1,0 +1,52 @@
+{
+    "editor.fontFamily": "'Dejavu Mono', 'monospace', monospace",
+    "editor.formatOnSave": true,
+    "editor.minimap.enabled": false,
+    "editor.largeFileOptimizations": false,
+    "editor.rulers": [80],
+    "editor.selectionClipboard": false,
+
+    "extensions.ignoreRecommendations": true,
+
+    "files.autoSave": "afterDelay",
+    "files.autoSaveDelay": 500,
+    "files.exclude": {
+      "**/.trunk/*actions/": true,
+      "**/.trunk/*logs/": true,
+      "**/.trunk/*notifications/": true,
+      "**/.trunk/*out/": true,
+      "**/.trunk/*plugins/": true
+    },
+    "files.trimTrailingWhitespace": true,
+    "files.watcherExclude": {
+      "**/.trunk/*actions/": true,
+      "**/.trunk/*logs/": true,
+      "**/.trunk/*notifications/": true,
+      "**/.trunk/*out/": true,
+      "**/.trunk/*plugins/": true
+    },
+
+    "terminal.integrated.fontSize": 12,
+
+    "github.copilot.advanced": {},
+    "github.copilot.editor.enableAutoCompletions": false,
+    "github.copilot.enable": {
+      "*": false,
+      "rust": false
+    },
+
+    "gitlens.hovers.currentLine.over": "line",
+    "gitlens.currentLine.enabled": false,
+    "gitlens.codeLens.enabled": false,
+
+    "html.format.extraLiners": "",
+
+    "rust-analyzer.inlayHints.chainingHints.enable": false,
+    "rust-analyzer.inlayHints.closingBraceHints.enable": false,
+    "rust-analyzer.inlayHints.genericParameterHints.const.enable": false,
+    "rust-analyzer.inlayHints.parameterHints.enable": false,
+    "rust-analyzer.inlayHints.typeHints.enable": false,
+    "rust-analyzer.lens.implementations.enable": false,
+
+    "workbench.colorTheme": "Default Dark+",
+  }

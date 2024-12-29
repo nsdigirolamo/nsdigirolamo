@@ -2,8 +2,11 @@
 
 Here are some ways I like to customize my desktop experience.
 
+## Terminals
+- [Ghostty](https://ghostty.org/)
+
 ## Cursors
-- [Bibata Cursor](https://github.com/somepaulo/MoreWaita) (specifically the *Ice* variant)
+- [Bibata Cursor](https://github.com/somepaulo/MoreWaita) (specifically the _Ice_ variant)
 
 ## Fonts
 - [DejaVu Mono](https://dejavu-fonts.github.io/)
