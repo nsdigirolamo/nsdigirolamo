@@ -7,7 +7,8 @@ to customize my experience:
 - Cursor: [Bibata Cursor](https://github.com/ful1e5/Bibata_Cursor) (specifically the _Ice_ variant)
 - Desktop Icons: [MoreWaita](https://github.com/somepaulo/MoreWaita)
 - Terminal Emulator: [Ghostty](https://ghostty.org/)
-- Favorite Coding Font: [DejaVu Mono](https://dejavu-fonts.github.io/)
+- Editor Font: [DejaVu Sans Mono - Bront](https://github.com/chrismwendt/bront)
+- Terminal Font: [JetBrains Mono](https://www.jetbrains.com/lp/mono/)
 
 And here are the GNOME extensions I use:
 
